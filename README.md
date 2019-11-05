@@ -5,3 +5,8 @@ Assignments for ANLY-590 Neural Nets and Deep Learning
 + LASSO Regression & Ridge Regression.
 + Visualization of  coeffecient trajectories.
 + Bias-Variance Tradeoff.
+
+## Nov 4, 2019: [HW 2](https://github.com/xinyiy/ANLY-590-Neural-Nets-and-Deep-Learning/blob/master/ANLY-590_HW_1.ipynb)
++ Feedforward: Building a ReLU neural net-work
++ Gradient Descent
++ Backprop
