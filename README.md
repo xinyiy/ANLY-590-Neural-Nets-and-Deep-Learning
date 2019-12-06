@@ -10,3 +10,8 @@ Assignments for ANLY-590 Neural Nets and Deep Learning
 + Feedforward: Building a ReLU neural net-work
 + Gradient Descent
 + Backprop
+
+## Dec 6, 2019: [HW 3](https://github.com/xinyiy/ANLY-590-Neural-Nets-and-Deep-Learning/blob/master/ANLY-590_HW_3.ipynb)
++ Autoencoder
++ Image Classification (Deep CNN, Transfer Learning)
++ Text Classification (RNN, 1D CNN)
